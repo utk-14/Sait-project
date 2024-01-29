@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .hor{
+           height:100px;
+           width:100px;
+           border:1px solid black;}
+           #container{
+            height:100px;
+            width: 1000px;
+            display:flex;
+            flex-direction: row;
+            
+           }
+           .ver1{
+            height:100px;
+            width:100px;
+            border:1px solid black;
+            
+           }
+           #container1{
+            width:100px;
+            height:500px;
+            display:flex;
+            flex-direction: column;
+            justify-content: flex-end;
+           }
+           .ver2{
+            height:100px;
+            width:100px;
+            border:1px solid black;}
+            #container2{
+            
+            display:flex;
+            flex-direction: row;
+            
+            margin-top: 0;
+
+            }
+            #container3{
+                
+                display:flex;
+                flex-direction: column;
+                margin-left: 1395px;
+                margin-top: -630px;
+            }
+            h1{
+                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                text-align:center ;
+                color:blue;
+                margin-top: -500px;
+
+
+            }
+            h2{
+                text-align: center;
+                background-color: #DFF3E4;
+            }
+            #login{
+                height:250px;
+                width:300px;
+                border:2px solid #171738;
+                margin:auto;
+                text-align: center;
+            }
+            form{
+                background-color: #7180B9;}
+            
+            
+            
+
+        
+           
+           
+        
+    </style>
+</head>
+<body><div id="container">
+    <img src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ac8abed4e5384ac495d3e24646cd279a_9366/QUESTERON_SHOES_Black_IQ9825_01_standard.jpg" class="hor">
+    <img src="https://nickronindia.com/cdn/shop/files/IMG_5348copy_1800x1800.jpg?v=1699258082"class="hor">
+    <img src="https://nickronindia.com/cdn/shop/files/IMG_5286copy_800x.jpg?v=1699258082" class="hor">
+    <img src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/bcd4b5e9b20c4ebfa7c71a7b50969e44_9366/QUESTERON_SHOES_Blue_IQ9826_01_standard.jpg" class="hor">
+    <img src="https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8958ac69a3b64ed2b89119388a9dbe86_9366/QUESTERON_SHOES_Grey_IQ9828_01_standard.jpg" class="hor">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYdJkcMZitnvYwk1tMG5cGzS9oR8enM9dBCg&usqp=CAU" class="hor">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeDbBwKznTLLIv2iC5QO_rHnjpmfEJ_UmFUQ&usqp=CAU" class="hor">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSArsdFP_spJZpKkpN9js_juhacdLWjhQ6heA&usqp=CAU" class="hor">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdXrvf6Sbk8eAuS1OrqSkIgn_JszjEdaSaqQ&usqp=CAU" class="hor">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrf_KWLvMCNxkSaTmzcc3Ksvi7uyIWQZVxexGnI0Hr_cDU1bVxha5DfSXUsw1qP7ugu3M&usqp=CAU" class="hor">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh0tSSvJJyBd8tkVx6DxaMFogSW0xJQQeZZEZsNJ8cKvfNzn0lTRFCck8tW8PCTdck4qI&usqp=CAU" class="hor">
+    <img src="https://www.sportsunfold.com/wp-content/uploads/2022/01/image-2022-01-04T181724.198.jpg" class="hor">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU0dKLqqX5jo5_q5BDkCLvW3umonbLI_pNkg&usqp=CAU" class="hor">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyfqeL4hKKxzBcvzNf1BfOsW6mME0ZWFl5aA5BhCR8YZ_saIdD-K5wRsD5RYOA-YzS9vQ&usqp=CAU" class="hor">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9OpedF8ouTGlIf3ZkabSy7ZmYoddkZ9-IFg&usqp=CAU"class="hor">
+    <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzfLh5f0ex-8EZeSfHHNsYAcsUYbYfaaoRYw&usqp=CAU"class="hor"> -->
+
+</div>
+<div class="container1">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLhdvRecExhuVIJTVcbS0oFeUzDfG2MOYFCw&usqp=CAU" class="ver1">
+    <br/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgDb587EqTRLmCXjskwQ99qvszy_i-b-E2Dw&usqp=CAU"class="ver1">
+    <br/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvSsgmCRunZfLDplmKG8NNb3rgMbjLFMP5Q&usqp=CAU"class="ver1">
+    <br/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYslqtJSr0rSCQrGYkp60jsyG9TXdinLxQLg&usqp=CAU"class="ver1">
+    <br/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRySGoG3G88TL6az8ISM_JWxFI4wVTw-BNYTA&usqp=CAU"class="ver1">
+    <br/>
+    <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNiFjYMu8T2GX8wuD7bHa2IoyndD69iplX1aat1F8lidnDvEfZOcLOXgUyeja7Ya177Ng&usqp=CAU"class="ver1"> -->
+    <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxfo4Nzy48vnMLdkV5HTER3iJBiLrHth6Ch3ivioN7saCB18TOVltjnLB4_QIZ-GIQ7MQ&usqp=CAU" class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXFVI3z_MXsoVkvM6cjiihevTohQiFtCpBZmaHM0w63zxWnQMFagQpfmlcS3fYO114jOM&usqp=CAU"class="ver2"> --></div>
+    <div id="container2"> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg51D9wVBtIQA_FA_23274ejZ_qpxThiKCwg&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-2Ae1aG1Z2-JlfhDCsGMmjXS7e6-cRKSsrg&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxKZaphfwE5JEpjrgsCO3bB77Ci_n7qusBhw&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn0z7YegmRaoBNfrzT9tvl5J8Qr4wX-7VG4A&usqp=CAU"class="ver2"> -->
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpIaz3lbbvKokQJbCwJ48gS3WAF_pCbHyM9A&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREtR261Ijh8cWhENXns9ND2Jr7WhFA0o24WA&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJ3OuoVkeSV5mJuFPXb1_nyaNVqkvYLlOuQ&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQHGV-8_urB-a309Grg5UthvNpxUAebJh5fw&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxcjkv68VrzaB_Nf6-Ey7q4-xY5hiEr0lMgJSITKXF-EOqNuTbkjiUe63REnMQazOlno4&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBPQzuq5O__JVCY4C6PPVlcY8IXYbTQAETkA&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQST3ju78YJ4ha8yOLveTZTQOgqWX3WRgPg&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc6YL0SGwmyBRa64X6ViV9NZkDaV6OifHvRA&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ-hF_7qAjH_WFMCe3LKVq9XZQTXKuAYQxIw&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqqVCv5Dv2m7ac0wOCxbZmNMD_boGueD6Z1A&usqp=CAU"class="ver2">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2fz7Q_PYcpZu84AkDrOMaj39MkxCMSKR8uA&usqp=CAU"class="ver2"></div>
+    <div id="container3">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfAvjXFR0kWqjnO4dmxBKjdYrTSXoASxnJNQ&usqp=CAU"class="ver1">
+    
+    <img src="data:image/jpeg;base64,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"class="ver1">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeKrGkC5tPweIXVRA_nM8S1y9cYQ3xal-5cQ&usqp=CAU"class="ver1">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNiFjYMu8T2GX8wuD7bHa2IoyndD69iplX1aat1F8lidnDvEfZOcLOXgUyeja7Ya177Ng&usqp=CAU"class="ver1">
+<img src="https://m.media-amazon.com/images/I/6156upwZ+XL._SL1500_.jpg" class="ver1">
+</div>
+<h1>Welcome to shoe world!!!</h1>
+<div id="login">
+<form>
+    <h2>Login</h2>
+<label for="username">Username :</label>
+            <input type="text" id="username" name="username"  title="Enter username" required>
+            <br/>
+            <br/>
+            <label for="password">Password :</label>
+            <input type="password" id="password" name="password"  title="Enter password" required>
+            <br/>
+            </br>
+            <button type="submit">Login</button>
+</form>
+   </div> 
+</body>
+</html>
